@@ -1,22 +1,32 @@
 [
     {
-        "nama": "Kaktus", "namaLatin": "Cactaceae", "imageId": "kaktus"
-        "perawatan": "Perawatan"
-        "desc": "Berikan Pencahayaan yang Cukup.\nSaat musim kemarau, maka kamu harus lebih sering menyiramnya.\nSaat musim hujan pastikan tidak memberikan kaktus terlalu banyak air karena bisa membuat batangnya membusuk."
+        "articleName": "Tak Sekadar Cantik, Kembang Sepatu Berkhasiat untuk Kesehatan", 
+        "headline": "Kembang sepatu (Hibiscus rosa-sinensis Linn.) merupakan tanaman hias yang berbentuk semak dengan tinggi mencapai 3 m.",
+        "imageArtId": "kaktus"
     },
     {
-        "nama": "Lidah Buaya", "namaLatin": "Gallus gallus", "imageId": "buaya"
+       "articleName": "Tak Sekadar Cantik, Kembang Sepatu Berkhasiat untuk Kesehatan", 
+        "headline": "Kembang sepatu (Hibiscus rosa-sinensis Linn.) merupakan tanaman hias yang berbentuk semak dengan tinggi mencapai 3 m.",
+        "imageArtId": "kaktus"
     },
     {
-        "nama": "Mawar Merah", "namaLatin": "Rosa", "imageId": "mawar"
+        "articleName": "Tak Sekadar Cantik, Kembang Sepatu Berkhasiat untuk Kesehatan", 
+        "headline": "Kembang sepatu (Hibiscus rosa-sinensis Linn.) merupakan tanaman hias yang berbentuk semak dengan tinggi mencapai 3 m.",
+        "imageArtId": "kaktus"
     },
     {
-        "nama": "Lidah Mertua", "namaLatin": "Sansevieria", "imageId": "mertua"
+        "articleName": "Tak Sekadar Cantik, Kembang Sepatu Berkhasiat untuk Kesehatan", 
+        "headline": "Kembang sepatu (Hibiscus rosa-sinensis Linn.) merupakan tanaman hias yang berbentuk semak dengan tinggi mencapai 3 m.",
+        "imageArtId": "kaktus"
     },
     {
-        "nama": "Kuping Gajah", "namaLatin": "Anthurium Chrystalinum", "imageId": "kuping"
+        "articleName": "Tak Sekadar Cantik, Kembang Sepatu Berkhasiat untuk Kesehatan", 
+        "headline": "Kembang sepatu (Hibiscus rosa-sinensis Linn.) merupakan tanaman hias yang berbentuk semak dengan tinggi mencapai 3 m.",
+        "imageArtId": "kaktus"
     },
     {
-        "nama": "Janda Bolong", "namaLatin": "Monstera adansonii", "imageId": "janda"
+        "articleName": "Tak Sekadar Cantik, Kembang Sepatu Berkhasiat untuk Kesehatan", 
+        "headline": "Kembang sepatu (Hibiscus rosa-sinensis Linn.) merupakan tanaman hias yang berbentuk semak dengan tinggi mencapai 3 m.",
+        "imageArtId": "kaktus"
     }
 ]
